@@ -1,0 +1,26 @@
+TOOL: Secondary Ion Mass Spectrometry (SIMS)
+
+WHAT IT MEASURES:
+- Elemental and isotopic depth profiles with ppb-level detection sensitivity
+- Dopant concentration profiles (e.g., B, P, As in Si) as a function of depth
+- Trace impurity distribution in thin films, semiconductors, and geological samples
+
+RESOLUTION: Depth resolution: 1–5 nm per layer; lateral resolution: 0.5–50 µm (nanoSIMS: ~50 nm); detection limit: 1012–1015 atoms/cm3
+
+BEST FOR:
+- Measuring ultra-low dopant concentration profiles in semiconductor junctions
+- Detecting trace-level contamination or diffusion at buried interfaces
+- Isotope tracer studies and geological geochronology (U-Pb dating)
+
+NOT SUITABLE FOR:
+- Non-destructive analysis — SIMS is inherently destructive, consuming sample material layer by layer
+- Quantitative analysis of insulating samples without charge compensation (requires careful setup)
+
+SAMPLE PREP:
+Samples must be clean, flat, and vacuum-compatible. Conductive or semiconducting samples can typically be measured as-is. Insulating samples require a thin conductive overlayer or charge neutralization with an electron flood gun. Sample size is typically 5–25 mm in diameter; rough surfaces degrade depth resolution significantly.
+
+OUTPUT:
+Depth profiles of element or isotope intensity vs. sputter time (converted to depth using known sputter rates); quantified concentration profiles using reference standards; 2D ion maps for lateral distribution imaging.
+
+COST/AVAILABILITY:
+$100–$400/hr at specialized facilities; instruments cost $500K–$5M. Less common than SEM/XRD — typically found at semiconductor fabs, national labs (e.g., NIST, Argonne), and a limited number of university centers. Often requires scheduling weeks in advance.

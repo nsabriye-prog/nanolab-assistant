@@ -1,0 +1,26 @@
+TOOL: Four-Point Probe (4PP)
+
+WHAT IT MEASURES:
+- Sheet resistance (Rs) of thin conductive films in Ω/sq
+- Electrical resistivity (ρ) of bulk semiconductors and conductive layers
+- Carrier concentration and mobility (when combined with Hall effect measurement)
+
+RESOLUTION: Sheet resistance range: 10-3–107 Ω/sq; spatial mapping resolution: ~0.5–1 mm (automated stage); measurement repeatability: ±0.1–1%
+
+BEST FOR:
+- Rapid, non-destructive measurement of sheet resistance on metal, ITO, or doped semiconductor films
+- Uniformity mapping across large-area wafers (2"–12") to assess deposition or doping homogeneity
+- Process monitoring and quality control in thin film deposition and semiconductor diffusion furnaces
+
+NOT SUITABLE FOR:
+- Insulating or highly resistive films (Rs > 107 Ω/sq) — contact resistance dominates and signal is unreliable
+- Patterned or very small samples where probe spacing exceeds sample geometry (edge correction factors required)
+
+SAMPLE PREP:
+Minimal preparation required. The sample should be flat and placed on a non-conductive chuck or stage. No electrical contacts need to be deposited — the four metal probes make direct pressure contact with the film surface. Sample surface should be free of native oxide or insulating passivation layers that could increase contact resistance. For fragile or soft films, reduce probe pressure to avoid mechanical damage.
+
+OUTPUT:
+Sheet resistance value (Ω/sq) displayed directly; resistivity (Ω·cm) calculated using measured or known film thickness; 2D color maps of sheet resistance uniformity across wafer area; statistical summary (mean, standard deviation, min/max) for mapping measurements.
+
+COST/AVAILABILITY:
+$10–$40/hr at shared facilities; benchtop systems cost $5K–$80K (manual to fully automated wafer-mapping systems). Extremely common and inexpensive relative to other nanoscale tools — found in nearly all semiconductor, photovoltaics, and thin film research labs.

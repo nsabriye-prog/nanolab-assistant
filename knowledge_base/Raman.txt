@@ -1,0 +1,26 @@
+TOOL: Raman Spectroscopy
+
+WHAT IT MEASURES:
+- Molecular bond vibrations, chemical structure, and phase identification
+- Stress/strain in crystalline materials via peak shift analysis
+- Layer number, defect density, and doping in 2D materials (graphene, MoS2, etc.)
+
+RESOLUTION: Lateral spatial resolution: ~0.5–1 µm (diffraction-limited); depth: 1–10 µm (material-dependent); spectral resolution: 0.5–2 cm-1
+
+BEST FOR:
+- Non-destructive chemical fingerprinting of organic, inorganic, and carbon-based materials
+- Characterizing graphene, carbon nanotubes, and 2D materials (G band, 2D band, D band)
+- Identifying polymorphs, phase transitions, and crystallinity in pharmaceutical or ceramic samples
+
+NOT SUITABLE FOR:
+- Metals and highly reflective surfaces (strong background fluorescence or poor Raman signal)
+- Elemental composition quantification — Raman identifies bonds and phases, not absolute elemental content
+
+SAMPLE PREP:
+Minimal preparation required — one of the most convenient characterization techniques. Samples can be solid, powder, liquid, or thin film. Samples should be clean and free of fluorescent contaminants. Powders are pressed onto a glass slide or placed in a sealed vial; thin films are measured directly on their substrate.
+
+OUTPUT:
+Raman spectra (intensity vs. Raman shift in cm-1); peak position, width (FWHM), and relative intensity data; spatial maps of peak intensity or position across a sample area (Raman mapping mode); stress/strain maps derived from peak shift.
+
+COST/AVAILABILITY:
+$30–$120/hr at shared facilities; benchtop systems cost $30K–$200K. Very widely available at universities and industrial labs. Portable and handheld Raman systems also available for field use (~$10K–$50K).

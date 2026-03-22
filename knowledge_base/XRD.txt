@@ -1,0 +1,26 @@
+TOOL: X-Ray Diffraction (XRD)
+
+WHAT IT MEASURES:
+- Crystal structure, phase identification, and lattice parameters
+- Crystallite (grain) size via peak broadening (Scherrer analysis)
+- Residual stress, preferred crystallographic orientation (texture), and phase fraction
+
+RESOLUTION: Phase detection limit: ~1–5 wt%; crystallite size range: 2–200 nm (Scherrer); angular resolution: ~0.01–0.02° 2θ
+
+BEST FOR:
+- Identifying crystalline phases in powders, thin films, and bulk materials
+- Measuring thin film epitaxy, strain, and rocking curve width (HR-XRD)
+- Monitoring phase transformations and structural changes after processing
+
+NOT SUITABLE FOR:
+- Amorphous materials or glasses (no sharp diffraction peaks; use Raman or SAXS instead)
+- Surface-specific or monolayer-level analysis — X-rays penetrate deeply (microns to mm)
+
+SAMPLE PREP:
+Powder samples should be finely ground (<10 µm) and loaded into a flat sample holder or capillary tube. Thin film samples require no special preparation beyond cleaning. Sample surface should be flat and properly aligned to the instrument's goniometer axis to minimize zero-offset errors.
+
+OUTPUT:
+Diffractogram (intensity vs. 2θ angle); phase identification via database matching (ICDD PDF); lattice parameters, crystallite size, and microstrain from peak fitting; rocking curves and reciprocal space maps for epitaxial thin films.
+
+COST/AVAILABILITY:
+$20–$80/hr at shared university facilities; lab-scale diffractometers cost $100K–$500K. Extremely common — available at virtually all materials science, chemistry, and geology departments worldwide.

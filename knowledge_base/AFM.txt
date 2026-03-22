@@ -1,0 +1,26 @@
+TOOL: Atomic Force Microscope (AFM)
+
+WHAT IT MEASURES:
+- Surface topography and roughness with sub-nanometer vertical resolution
+- Mechanical properties: stiffness, adhesion, Young's modulus (via force-distance curves)
+- Electrical, magnetic, and tribological surface properties (mode-dependent)
+
+RESOLUTION: Lateral: 1–10 nm; Vertical (Z): 0.01–0.1 nm (sub-angstrom in ideal conditions)
+
+BEST FOR:
+- Measuring thin film roughness (Ra, Rq) and step heights at the nanometer scale
+- Characterizing nanoscale features on soft or biological samples without conductive coating
+- Mapping local mechanical, electrical (KPFM, C-AFM), or magnetic (MFM) surface properties
+
+NOT SUITABLE FOR:
+- Samples with very high roughness or steep sidewalls (tip convolution artifacts and limited scan range ~100 µm)
+- Subsurface or bulk characterization — strictly a surface technique
+
+SAMPLE PREP:
+Samples should be clean and securely mounted on a metal puck using tape or adhesive. Surfaces must be free of loose particles that could contaminate or damage the probe tip. Liquid-phase measurements are possible in fluid cells; biological samples may be imaged in buffer solution without drying.
+
+OUTPUT:
+3D topographic height maps; roughness statistics (Ra, Rq, Rz); phase contrast images; force-distance curves and derived mechanical property maps; electrical or magnetic maps depending on operating mode.
+
+COST/AVAILABILITY:
+$30–$150/hr at shared facilities; instruments range from $50K (benchtop) to $500K+ (advanced multi-mode systems). Widely available at universities and industrial labs; relatively accessible compared to electron microscopy.

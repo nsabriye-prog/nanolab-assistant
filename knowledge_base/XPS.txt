@@ -1,0 +1,26 @@
+TOOL: X-Ray Photoelectron Spectroscopy (XPS)
+
+WHAT IT MEASURES:
+- Elemental composition of the top 1–10 nm of a surface (all elements except H and He)
+- Chemical bonding state and oxidation state of surface species
+- Quantitative atomic concentration of surface elements (±1–5 at%)
+
+RESOLUTION: Sampling depth: 1–10 nm; lateral spatial resolution: 1–200 µm (instrument-dependent); energy resolution: 0.1–0.5 eV
+
+BEST FOR:
+- Identifying surface oxidation, contamination, or passivation layers on metals and semiconductors
+- Determining bonding environments (e.g., SiO2 vs. Si, Fe2+ vs. Fe3+) via chemical shift analysis
+- Depth profiling of thin film composition using Ar+ ion sputtering combined with XPS
+
+SAMPLE PREP:
+Samples must be ultra-high vacuum (UHV) compatible — completely dry, non-outgassing, and free of volatile solvents or adhesives. Sample size is typically limited to ~1 cm × 1 cm or smaller. Samples are introduced via a load-lock system; air-sensitive samples can be transferred using inert-atmosphere transfer vessels.
+
+NOT SUITABLE FOR:
+- Detection of hydrogen or helium (below XPS detection limit)
+- Bulk composition analysis — strictly a surface technique sampling only the top ~10 nm
+
+OUTPUT:
+Survey spectra showing all detectable elements; high-resolution core-level spectra with peak fitting to resolve chemical states; atomic concentration tables; depth profiles showing composition vs. sputter depth.
+
+COST/AVAILABILITY:
+$80–$250/hr at shared facilities; instruments cost $500K–$2M+. Available at major universities, national labs, and semiconductor industry facilities. Less ubiquitous than SEM/XRD but common at dedicated surface analysis centers.

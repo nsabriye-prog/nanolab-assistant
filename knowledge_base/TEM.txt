@@ -1,0 +1,26 @@
+TOOL: Transmission Electron Microscope (TEM)
+
+WHAT IT MEASURES:
+- Internal crystal structure, defects, and lattice fringes at atomic resolution
+- Elemental composition via EDS or EELS on thin cross-sectional specimens
+- Nanoparticle size, shape, and crystallinity at sub-angstrom scale
+
+RESOLUTION: 0.05–0.2 nm (atomic resolution); STEM HAADF: ~0.1 nm; standard TEM: ~0.2 nm
+
+BEST FOR:
+- Atomic-scale imaging of interfaces, dislocations, grain boundaries, and epitaxial layers
+- Nanoparticle and quantum dot characterization including lattice parameter measurement
+- Cross-sectional analysis of multilayer thin film stacks and semiconductor devices
+
+NOT SUITABLE FOR:
+- Bulk or large samples — specimen must be electron-transparent (<100 nm thick), requiring destructive sample preparation
+- Routine or high-throughput analysis due to lengthy prep time and high operator skill requirement
+
+SAMPLE PREP:
+Specimens must be thinned to electron transparency (<100 nm), typically via focused ion beam (FIB) milling, mechanical polishing followed by ion milling, or ultramicrotomy for soft materials. Cross-sectional TEM lamellae are typically prepared by FIB lift-out. Samples must be completely dry and stable under high vacuum and electron beam irradiation.
+
+OUTPUT:
+Bright-field/dark-field TEM images; high-resolution lattice fringe images; selected area electron diffraction (SAED) patterns; STEM-EDS elemental maps; EELS spectra showing elemental and bonding state information.
+
+COST/AVAILABILITY:
+$100–$400/hr at university or national lab facilities; less common than SEM due to high instrument and maintenance cost (~$1–3M). Available at major research universities, DOE national labs, and dedicated materials characterization centers.

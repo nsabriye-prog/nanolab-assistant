@@ -1,0 +1,13 @@
+# API keys & secrets
+.env
+*.env
+mykey.txt
+.streamlit/secrets.toml
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

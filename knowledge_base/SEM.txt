@@ -1,0 +1,26 @@
+TOOL: Scanning Electron Microscope (SEM)
+
+WHAT IT MEASURES:
+- Surface morphology and topography at nanometer to micrometer scale
+- Elemental composition (when equipped with EDS/EDX detector)
+- Grain size, particle size distribution, and surface feature dimensions
+
+RESOLUTION: 1–20 nm spatial resolution (field emission SEM: ~1 nm; tungsten filament SEM: ~10–20 nm)
+
+BEST FOR:
+- Imaging surface features, cracks, pores, and grain boundaries in solid materials
+- Failure analysis and quality control of micro/nanofabricated devices
+- Particle morphology characterization (powders, nanoparticles, thin films)
+
+NOT SUITABLE FOR:
+- Imaging internal bulk structure or subsurface features (use TEM for cross-sections)
+- Non-conductive samples without coating or low-vacuum mode (charging artifacts)
+
+SAMPLE PREP:
+Samples must be dry, clean, and vacuum-compatible. Non-conductive samples require sputter-coating with a thin (~5–10 nm) layer of gold, platinum, or carbon to prevent charging. Samples are mounted on aluminum stubs using conductive tape or silver paste.
+
+OUTPUT:
+Grayscale secondary electron (SE) or backscattered electron (BSE) images; EDS spectra and elemental maps showing spatial composition distribution; quantitative dimensional measurements via image analysis software.
+
+COST/AVAILABILITY:
+$50–$200/hr at university shared facilities; widely available at most research universities, national labs, and industrial R&D centers. One of the most commonly available nanoscale characterization tools.

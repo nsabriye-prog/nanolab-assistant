@@ -1,0 +1,26 @@
+TOOL: Spectroscopic Ellipsometry (SE)
+
+WHAT IT MEASURES:
+- Thin film thickness (single layer or multilayer stacks) from ~0.1 nm to several microns
+- Optical constants: refractive index (n) and extinction coefficient (k) as a function of wavelength
+- Film composition, porosity, and surface roughness via optical modeling
+
+RESOLUTION: Thickness sensitivity: 0.01–0.1 nm; lateral resolution: ~50 µm (standard); ~1 µm (imaging ellipsometry)
+
+BEST FOR:
+- Non-destructive, non-contact measurement of transparent or semi-transparent thin film thickness
+- Monitoring film growth in real-time (in-situ ellipsometry on deposition chambers)
+- Characterizing optical properties of dielectric, semiconductor, and organic thin films
+
+NOT SUITABLE FOR:
+- Opaque metallic films thicker than ~50–100 nm (limited light penetration)
+- Samples with significant surface roughness or non-uniform films without careful modeling
+
+SAMPLE PREP:
+No sample preparation required for most solid flat substrates — one of the most non-invasive techniques available. Samples should be clean and free of surface contamination. Films measured on reflective substrates (silicon, glass, metals) yield the best signal-to-noise. Liquids and soft films can be measured in liquid cells.
+
+OUTPUT:
+Measured ellipsometric angles Ψ (psi) and Δ (delta) vs. wavelength; fitted thickness values from optical models (Cauchy, Sellmeier, Tauc-Lorentz); n and k dispersion curves; goodness-of-fit parameter (MSE); in real-time mode, thickness vs. time traces during deposition.
+
+COST/AVAILABILITY:
+$20–$80/hr at shared facilities; instruments cost $50K–$300K. Common at semiconductor and photonics research labs, thin film deposition facilities, and university materials departments. Often integrated directly into deposition systems for in-situ monitoring.

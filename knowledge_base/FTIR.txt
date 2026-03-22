@@ -1,0 +1,26 @@
+TOOL: Fourier Transform Infrared Spectroscopy (FTIR)
+
+WHAT IT MEASURES:
+- Molecular functional groups and chemical bonding via infrared absorption fingerprinting
+- Presence and concentration of specific chemical species (quantitative via Beer-Lambert law)
+- Thin film composition, contamination, and oxidation state in surface or bulk samples
+
+RESOLUTION: Spectral resolution: 0.5–8 cm-1 (standard); wavenumber range: 400–4000 cm-1 (mid-IR); spatial resolution (FTIR microscopy): ~10–20 µm
+
+BEST FOR:
+- Identifying organic contaminants, polymer species, or surface functionalization on materials
+- Monitoring oxide growth, nitridation, or chemical conversion in thin films
+- Quality control and purity verification of bulk powders, liquids, and polymers
+
+NOT SUITABLE FOR:
+- Homonuclear diatomic molecules (N2, O2, H2) — IR-inactive, no dipole moment change
+- Sub-monolayer surface species on bulk samples (low sensitivity without ATR or IRRAS enhancement)
+
+SAMPLE PREP:
+Transmission mode: powders mixed with KBr and pressed into pellets; liquids placed between IR-transparent salt windows (NaCl, ZnSe). ATR (Attenuated Total Reflectance) mode: sample pressed directly onto ATR crystal (diamond, Ge, or ZnSe) — most convenient and requires no preparation. Thin films can be measured in transmission or reflection-absorption (IRRAS) mode on metallic substrates.
+
+OUTPUT:
+Absorption or transmittance spectra (% T or absorbance vs. wavenumber cm-1); peak identification via library matching (NIST, commercial databases); quantitative concentration from peak area calibration; difference spectra showing before/after chemical changes.
+
+COST/AVAILABILITY:
+$15–$60/hr at shared facilities; instruments cost $20K–$150K. One of the most accessible and widely available analytical techniques — found in virtually every chemistry, materials, pharmaceutical, and polymer lab worldwide.
